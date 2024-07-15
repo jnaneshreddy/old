@@ -1,0 +1,13 @@
+1--opera
+2--pc manager
+3--brave
+4--turbo
+5--vs code
+6--monkey type
+7--pycharme
+8--thony
+9--postgress
+10--sublime
+11--intelij
+12--wasapp and beta v
+13--some app;ications
